@@ -1,0 +1,210 @@
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\TestingGrounds
+-- The C compiler identification is GNU 8.2.1
+-- The CXX compiler identification is GNU 8.2.1
+-- Check for working C compiler: C:/msys64/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/msys64/mingw64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/msys64/mingw64/bin/g++.exe
+-- Check for working CXX compiler: C:/msys64/mingw64/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) at CMakeLists.txt:13 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:13
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-includes.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:14 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:14
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-definitions.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:15 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:15
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-headers-ue4.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:16 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:16
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-headers-project.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:17 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:17
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-sources-engine.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:18 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:18
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-sources-project.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:19 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:19
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-csharp-engine.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:20 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:20
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-csharp-project.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:23 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:23
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-shaders-engine.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:25 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:25
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-shaders-project.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:30 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:30
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-config-engine.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:32 (include):
+  Syntax error in cmake code at
+
+    D:/TestingGrounds/CMakeLists.txt:32
+
+  when parsing string
+
+    D:\TestingGrounds\Intermediate\ProjectFiles\cmake-config-project.cmake
+
+  Invalid escape sequence \T
+
+  Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+  "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/TestingGrounds/cmake-build-debug

@@ -1,0 +1,15 @@
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/UE4Editor-Win64-DebugGame.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/UE4Game-Win64-DebugGame.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/UE4Editor-Win64-Shipping.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/UE4Editor.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/UE4Game-Win64-Shipping.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/UE4Game.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/TestingGrounds-Win64-DebugGame.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/TestingGrounds.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/FakeTarget.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/TestingGrounds-Win64-Shipping.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/TestingGroundsEditor-Win64-DebugGame.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/TestingGroundsEditor-Win64-Shipping.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TestingGrounds/cmake-build-debug/CMakeFiles/TestingGroundsEditor.dir
